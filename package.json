@@ -1,0 +1,35 @@
+{
+  "name": "youtrack-flowdock",
+  "version": "1.0.0",
+  "description": "Integrate flowdock with youtrack",
+  "main": "index.js",
+  "scripts": {
+    "lint": "node_modules/.bin/eslint .",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codio/youtrack-flowdock.git"
+  },
+  "author": "Friedel Ziegelmayer <dignifiedquire@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codio/youtrack-flowdock/issues"
+  },
+  "homepage": "https://github.com/codio/youtrack-flowdock#readme",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "debug": "^2.2.0",
+    "jquery": "^2.1.4",
+    "jsdom": "^6.5.1",
+    "mail-listener3": "0.0.2",
+    "superagent": "^1.4.0",
+    "superagent-logger": "^1.0.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.3",
+    "eslint": "^1.5.1",
+    "eslint-config-standard": "^4.4.0",
+    "eslint-plugin-standard": "^1.3.1"
+  }
+}
