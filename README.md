@@ -1,5 +1,7 @@
 # youtrack-flowdock
 
+[![Build Status](https://travis-ci.org/codio/youtrack-flowdock.svg)](https://travis-ci.org/codio/youtrack-flowdock)
+
 Integrate flowdock with youtrack
 
 
