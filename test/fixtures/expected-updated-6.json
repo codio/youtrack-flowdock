@@ -7,6 +7,13 @@
   "external_thread_id": "codio-6455",
   "thread": {
     "title": "File changes from terminal are not updated in file tree",
-    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6455"
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6455",
+    "fields": [{
+      "label": "Assignee",
+      "value": "Dmitrii Suchkov"
+    }, {
+      "label": "State",
+      "value": "QA ready"
+    }]
   }
 }

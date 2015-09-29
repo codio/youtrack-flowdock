@@ -23,6 +23,7 @@
     "debug": "^2.2.0",
     "jquery": "^2.1.4",
     "jsdom": "^6.5.1",
+    "lodash": "^3.10.1",
     "mail-listener3": "0.0.2",
     "superagent": "^1.4.0",
     "superagent-logger": "^1.0.3"

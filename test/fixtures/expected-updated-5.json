@@ -7,6 +7,10 @@
   "external_thread_id": "codio-6169",
   "thread": {
     "title": "Order of answers should be randomised",
-    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6169"
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6169",
+    "fields": [{
+      "label": "State",
+      "value": "New"
+    }]
   }
 }
