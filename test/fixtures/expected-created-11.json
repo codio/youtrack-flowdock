@@ -5,7 +5,7 @@
   "external_thread_id": "codio-6473",
   "thread": {
     "title": "Billing is broken on staging and test2 (cannot check it on production)",
-    "body": null,
+    "body": "* open billing                                                                                                                                                                                                                   \n* try to pay for smth                                                                                                                                                                                                            \n* see you paid but history is not updated                                                                                                                                                                                        \n* press cancel - seems it was not paid - no billing period                                                                                                                                                                       \n* from zed I see that plan is developer and active                                                                                                                                                                               \n< http://screencast.com/t/lv0F0GI2 >http://screencast.com/t/lv0F0GI2",
     "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6473"
   }
 }

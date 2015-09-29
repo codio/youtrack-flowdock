@@ -7,7 +7,7 @@
   "external_thread_id": "codio-6257",
   "thread": {
     "title": "Update link in our 502 error page",
-    "body": null,
+    "body": "Change in Documentation structure so please change                                                                                                                                          \nfrom< https://codio.com/docs/boxes/access/ext-access/ > https://codio.com/docs/boxes/access/ext-access/                                                                                     \nto                                                                                                                                                                                          \n< https://codio.com/docs/ide/boxes/access/ext-access/ >https://codio.com/docs/ide/boxes/access/ext-access/                                                                                  \n < https://codio.myjetbrains.com/youtrack/user/ijobling >Ian Jobling What page do you mean? Can't find this page or this link on client and dashboard. Can you provide a screenshot of this page?",
     "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6257"
   }
 }

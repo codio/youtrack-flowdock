@@ -7,7 +7,7 @@
   "external_thread_id": "codio-6388",
   "thread": {
     "title": "eduOrg plan",
-    "body": null,
+    "body": "When an org that is on the eduTrial plan agrees to pay for a license, we need to find that org in Zed and change the plan from eduTrial to a new eduOrg plan. This plan will not have any trial, but other limits of the eduTrial plan still apply. \nAdditionally, we sometimes need to be able change the user limit for an eduOrg plan. In Zed, we should be able to find that org and set any user limit and apply it to that org. This should only be possible for orgs on the new eduOrg plan.      \n < https://codio.myjetbrains.com/youtrack/user/joelmoss >Joel Moss:< https://bitbucket.org/codio/black-market/pull-requests/30/adds-customizesubscription-api-method/diff > https://bitbucket.org/codio/black-market/pull-requests/30/adds-customizesubscription-api-method/diff",
     "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6388"
   }
 }
