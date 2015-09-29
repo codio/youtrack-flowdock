@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "VeronikaLee"
+  },
+  "title": "VeronikaLee commented on Youtrack",
+  "external_thread_id": "codio-6420",
+  "thread": {
+    "title": "Changing plan from Edu trial (full access) to Dev orgs should show more info about what user will buy",
+    "body": null,
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6420"
+  }
+}

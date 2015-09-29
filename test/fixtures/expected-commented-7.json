@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "Vasiliy Levykin"
+  },
+  "title": "Vasiliy Levykin commented on Youtrack",
+  "external_thread_id": "codio-6388",
+  "thread": {
+    "title": "eduOrg plan",
+    "body": null,
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6388"
+  }
+}

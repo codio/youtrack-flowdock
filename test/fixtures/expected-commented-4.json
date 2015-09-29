@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "Friedel Ziegelmayer"
+  },
+  "title": "Friedel Ziegelmayer commented on Youtrack",
+  "external_thread_id": "codio-6471",
+  "thread": {
+    "title": "Test Issue Number 2",
+    "body": null,
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6471"
+  }
+}

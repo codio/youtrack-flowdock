@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "Mikhail Loginov"
+  },
+  "title": "Mikhail Loginov commented on Youtrack",
+  "external_thread_id": "codio-6257",
+  "thread": {
+    "title": "Update link in our 502 error page",
+    "body": null,
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6257"
+  }
+}

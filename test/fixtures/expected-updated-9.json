@@ -1,0 +1,13 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Vasiliy Levykin"
+  },
+  "title": "Vasiliy Levykin updated on Youtrack",
+  "external_thread_id": "codio-6395",
+  "thread": {
+    "title": "Minor refactoring after removefree release",
+    "body": null,
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6395"
+  }
+}
