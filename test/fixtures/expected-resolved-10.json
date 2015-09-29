@@ -8,6 +8,10 @@
   "thread": {
     "title": "Students starting units sometimes get the wrong stack",
     "body": null,
-    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6399"
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6399",
+    "status": {
+      "color": "red",
+      "value": "resolved"
+    }
   }
 }
