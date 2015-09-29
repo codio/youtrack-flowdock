@@ -3,15 +3,61 @@
   "author": {
     "name": "VeronikaLee"
   },
-  "title": "created on Youtrack",
+  "title": "created",
   "external_thread_id": "codio-6473",
   "thread": {
-    "title": "Billing is broken on staging and test2 (cannot check it on production)",
-    "body": "* open billing                                                                                                                                                                                                                   \n* try to pay for smth                                                                                                                                                                                                            \n* see you paid but history is not updated                                                                                                                                                                                        \n* press cancel - seems it was not paid - no billing period                                                                                                                                                                       \n* from zed I see that plan is developer and active                                                                                                                                                                               \n< http://screencast.com/t/lv0F0GI2 >http://screencast.com/t/lv0F0GI2",
+    "title": "codio-6473 - Billing is broken on staging and test2 (cannot check it on production)",
     "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6473",
     "status": {
       "color": "green",
       "value": "open"
-    }
+    },
+    "body": "<ul class=\"wiki-list0\"><li> open billing<br/></li><li> try to pay for smth<br/></li><li> see you paid but history is not updated<br/></li><li> press cancel  - seems it was not paid - no billing period<br/></li><li> from zed I see that plan is developer and active</li></ul><br/><a href=\"http://screencast.com/t/lv0F0GI2\" onclick=\"window.open('http://screencast.com/t/lv0F0GI2', '_blank').opener=null; return false;\">http://screencast.com/t/lv0F0GI2</a></div>",
+    "fields": [
+      {
+        "label": "Priority",
+        "value": "Normal"
+      },
+      {
+        "label": "Type",
+        "value": "Bug"
+      },
+      {
+        "label": "State",
+        "value": "New"
+      },
+      {
+        "label": "Action to Take",
+        "value": "Implement"
+      },
+      {
+        "label": "Assignee",
+        "value": "Unassigned"
+      },
+      {
+        "label": "Subsystem",
+        "value": "No subsystem"
+      },
+      {
+        "label": "Documentation Required",
+        "value": "No"
+      },
+      {
+        "label": "Due Date",
+        "value": "n/a"
+      },
+      {
+        "label": "Github Issue",
+        "value": "none"
+      },
+      {
+        "label": "_version",
+        "value": "No _version"
+      },
+      {
+        "label": "Estimation",
+        "value": "?"
+      }
+    ]
   }
 }

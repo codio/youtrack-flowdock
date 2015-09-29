@@ -1,0 +1,18 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "VeronikaLee"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-6465",
+  "thread": {
+    "title": "codio-6465 - Start Unit cause 503 error in every 3-4 case in IE and Safary",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6465",
+    "fields": [
+      {
+        "label": "State",
+        "value": "QA'ing"
+      }
+    ]
+  }
+}

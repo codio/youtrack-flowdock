@@ -1,0 +1,22 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "AndreyNikitin"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-5881",
+  "thread": {
+    "title": "codio-5881 - Switch checkbox disappears after set to true in pack edit page",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-5881",
+    "fields": [
+      {
+        "label": "State",
+        "value": "In Progress"
+      },
+      {
+        "label": "Assignee",
+        "value": "AndreyNikitin"
+      }
+    ]
+  }
+}

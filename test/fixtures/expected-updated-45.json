@@ -1,0 +1,18 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "AnnaGlushkova"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-6381",
+  "thread": {
+    "title": "codio-6381 - acv2 database has a organization.details.trialExpirationTimestamp field",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6381",
+    "fields": [
+      {
+        "label": "State",
+        "value": "QA'ing"
+      }
+    ]
+  }
+}

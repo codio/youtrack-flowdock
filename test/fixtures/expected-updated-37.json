@@ -1,0 +1,18 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "VeronikaLee"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-6420",
+  "thread": {
+    "title": "codio-6420 - Changing plan from Edu trial (full access) to Dev orgs should show more info about what user will buy",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6420",
+    "fields": [
+      {
+        "label": "State",
+        "value": "QA approved"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Joel Moss"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-6473",
+  "thread": {
+    "title": "codio-6473 - Billing is broken on staging and test2 (cannot check it on production)",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6473",
+    "fields": [
+      {
+        "label": "State",
+        "value": "Current"
+      }
+    ]
+  }
+}

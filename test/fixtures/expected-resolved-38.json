@@ -1,0 +1,16 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Ian Jobling"
+  },
+  "title": "resolved",
+  "external_thread_id": "codio-6439",
+  "thread": {
+    "title": "codio-6439 - User unable to restart his box",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6439",
+    "status": {
+      "color": "red",
+      "value": "resolved"
+    }
+  }
+}

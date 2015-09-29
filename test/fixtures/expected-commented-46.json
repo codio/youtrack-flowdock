@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "Mikhail Loginov"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6470#comment=85-4940\">commented</a>",
+  "external_thread_id": "codio-6470",
+  "thread": {
+    "title": "codio-6470 - After reopen current stack in stack settings, stack picker doesn't show a list",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6470"
+  },
+  "body": "<a href=\"https://github.com/codio/client/pull/4422\" onclick=\"window.open('https://github.com/codio/client/pull/4422', '_blank').opener=null; return false;\">https://github.com/codio/client/pull/4422</a></div>\n\n\n        <div style=\"display: inline-block; font-size: 85%;margin-top: 5px;\">\n            <a style=\"color: #105CB6;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6470#comment=85-4940\">\n                View</a>\n                    <a style=\"color: #105CB6; margin-left: 5px;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6470?replyTo=85-4940\">Reply</a>"
+}

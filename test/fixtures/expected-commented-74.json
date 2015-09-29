@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "AndreyNikitin"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-5881#comment=85-4947\">commented</a>",
+  "external_thread_id": "codio-5881",
+  "thread": {
+    "title": "codio-5881 - Switch checkbox disappears after set to true in pack edit page",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-5881"
+  },
+  "body": "<a href=\"https://codio.myjetbrains.com/youtrack/user/iyashtykov\" title=\"iyashtykov\">Igor Yashtykov</a>, this checkbox is connected to help text under the select =). <a href=\"https://codio.myjetbrains.com/youtrack/user/joelmoss\" title=\"joelmoss\">Joel Moss</a>, <a href=\"https://codio.myjetbrains.com/youtrack/user/ijobling\" title=\"ijobling\">Ian Jobling</a> think this field should be fixed, because now it confusing, maybe move checkbox under the select box near the help text?</div>\n\n\n        <div style=\"display: inline-block; font-size: 85%;margin-top: 5px;\">\n            <a style=\"color: #105CB6;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-5881#comment=85-4947\">\n                View</a>\n                    <a style=\"color: #105CB6; margin-left: 5px;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-5881?replyTo=85-4947\">Reply</a>"
+}

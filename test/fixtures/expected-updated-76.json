@@ -1,0 +1,22 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "AndreyNikitin"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-6227",
+  "thread": {
+    "title": "codio-6227 - New rules for the bitbucket integration.",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6227",
+    "fields": [
+      {
+        "label": "Assignee",
+        "value": "AndreyNikitin"
+      },
+      {
+        "label": "State",
+        "value": "In Progress"
+      }
+    ]
+  }
+}

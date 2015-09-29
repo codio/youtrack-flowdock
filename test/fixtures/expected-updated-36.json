@@ -1,0 +1,22 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Dmitrii Suchkov"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-6456",
+  "thread": {
+    "title": "codio-6456 - Cannot install any component from bower",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6456",
+    "fields": [
+      {
+        "label": "State",
+        "value": "In Progress"
+      },
+      {
+        "label": "Assignee",
+        "value": "Dmitrii Suchkov"
+      }
+    ]
+  }
+}

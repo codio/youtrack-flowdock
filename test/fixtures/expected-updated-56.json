@@ -1,0 +1,13 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Joel Moss"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-5958",
+  "thread": {
+    "title": "codio-5958 - Next Up",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-5958",
+    "fields": []
+  }
+}

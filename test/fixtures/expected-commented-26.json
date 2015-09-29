@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "VeronikaLee"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6450#comment=85-4917\">commented</a>",
+  "external_thread_id": "codio-6450",
+  "thread": {
+    "title": "codio-6450 - When trying to access a projects settings from dashboard - error",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6450"
+  },
+  "body": "click gear icon to access project settings and &#39;Stack not found&#39; error shown</div>"
+}

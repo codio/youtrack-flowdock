@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "Friedel Ziegelmayer"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6471#comment=85-4946\">commented</a>",
+  "external_thread_id": "codio-6471",
+  "thread": {
+    "title": "codio-6471 - Test Issue Number 2",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6471"
+  },
+  "body": "This is a long comment, for testing things, <br/>This is a long comment, for testing things<br/><br/><ul class=\"wiki-list0\"><li>This is a long comment, for testing things<br/></li><li>This is a long comment, for testing things<br/></li><li>This is a long comment, for testing things</li></ul><br/>Hello <code class=\"inline-code\">world</code> This is a long comment, for testing things</div>\n\n\n        <div style=\"display: inline-block; font-size: 85%;margin-top: 5px;\">\n            <a style=\"color: #105CB6;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6471#comment=85-4946\">\n                View</a>\n                    <a style=\"color: #105CB6; margin-left: 5px;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6471?replyTo=85-4946\">Reply</a>"
+}

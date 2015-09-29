@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "VeronikaLee"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6477#comment=85-4945\">commented</a>",
+  "external_thread_id": "codio-6477",
+  "thread": {
+    "title": "codio-6477 - Recommended Courses layout problem in IE11",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6477"
+  },
+  "body": "need to recheck after 6403 is fixed</div>\n\n\n        <div style=\"display: inline-block; font-size: 85%;margin-top: 5px;\">\n            <a style=\"color: #105CB6;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6477#comment=85-4945\">\n                View</a>\n                    <a style=\"color: #105CB6; margin-left: 5px;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6477?replyTo=85-4945\">Reply</a>"
+}

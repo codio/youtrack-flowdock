@@ -1,0 +1,16 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Leo Iannacone"
+  },
+  "title": "resolved",
+  "external_thread_id": "codio-6431",
+  "thread": {
+    "title": "codio-6431 - Edu trial signup email",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6431",
+    "status": {
+      "color": "red",
+      "value": "resolved"
+    }
+  }
+}

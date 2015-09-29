@@ -1,0 +1,63 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Ian Jobling"
+  },
+  "title": "created",
+  "external_thread_id": "codio-6477",
+  "thread": {
+    "title": "codio-6477 - Recommended Courses layout problem in IE11",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6477",
+    "status": {
+      "color": "green",
+      "value": "open"
+    },
+    "body": "Not only tags showing badly as per <a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6403\">https://codio.myjetbrains.com/youtrack/issue/codio-6403</a> but the general layout is bad<br/><br/>re: Connolly_V@habsboys.org.uk</div>",
+    "fields": [
+      {
+        "label": "Priority",
+        "value": "Normal"
+      },
+      {
+        "label": "Type",
+        "value": "Bug"
+      },
+      {
+        "label": "State",
+        "value": "New"
+      },
+      {
+        "label": "Action to Take",
+        "value": "Implement"
+      },
+      {
+        "label": "Assignee",
+        "value": "Unassigned"
+      },
+      {
+        "label": "Subsystem",
+        "value": "No subsystem"
+      },
+      {
+        "label": "Documentation Required",
+        "value": "No"
+      },
+      {
+        "label": "Due Date",
+        "value": "n/a"
+      },
+      {
+        "label": "Github Issue",
+        "value": "none"
+      },
+      {
+        "label": "_version",
+        "value": "No _version"
+      },
+      {
+        "label": "Estimation",
+        "value": "?"
+      }
+    ]
+  }
+}

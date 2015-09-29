@@ -1,0 +1,63 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Ian Jobling"
+  },
+  "title": "created",
+  "external_thread_id": "codio-6476",
+  "thread": {
+    "title": "codio-6476 - Documentation in IE11",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6476",
+    "status": {
+      "color": "green",
+      "value": "open"
+    },
+    "body": "Poor layout when documentation viewed in IE 11<br/><br/>re: Melville_S@habsboys.org.uk</div>",
+    "fields": [
+      {
+        "label": "Priority",
+        "value": "Normal"
+      },
+      {
+        "label": "Type",
+        "value": "Bug"
+      },
+      {
+        "label": "State",
+        "value": "New"
+      },
+      {
+        "label": "Action to Take",
+        "value": "Implement"
+      },
+      {
+        "label": "Assignee",
+        "value": "Unassigned"
+      },
+      {
+        "label": "Subsystem",
+        "value": "No subsystem"
+      },
+      {
+        "label": "Documentation Required",
+        "value": "No"
+      },
+      {
+        "label": "Due Date",
+        "value": "n/a"
+      },
+      {
+        "label": "Github Issue",
+        "value": "none"
+      },
+      {
+        "label": "_version",
+        "value": "No _version"
+      },
+      {
+        "label": "Estimation",
+        "value": "?"
+      }
+    ]
+  }
+}

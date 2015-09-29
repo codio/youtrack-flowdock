@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "Ian Jobling"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6428#comment=85-4936\">commented</a>",
+  "external_thread_id": "codio-6428",
+  "thread": {
+    "title": "codio-6428 - Edu Organisation not found in intercom in Company list",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6428"
+  },
+  "body": "Org name:<br/>St Lawrence College<br/><br/>Org creator:<br/>rbw@slcuk.com</div>"
+}

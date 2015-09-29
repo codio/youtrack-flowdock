@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "Leo Iannacone"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6428#comment=85-4944\">commented</a>",
+  "external_thread_id": "codio-6428",
+  "thread": {
+    "title": "codio-6428 - Edu Organisation not found in intercom in Company list",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6428"
+  },
+  "body": "Send errors to rollbar, we will figure out what&#39;s wrong<br/><br/><a href=\"https://github.com/codio/dashboard/pull/492\" onclick=\"window.open('https://github.com/codio/dashboard/pull/492', '_blank').opener=null; return false;\">https://github.com/codio/dashboard/pull/492</a></div>\n\n\n        <div style=\"display: inline-block; font-size: 85%;margin-top: 5px;\">\n            <a style=\"color: #105CB6;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6428#comment=85-4944\">\n                View</a>\n                    <a style=\"color: #105CB6; margin-left: 5px;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6428?replyTo=85-4944\">Reply</a>"
+}

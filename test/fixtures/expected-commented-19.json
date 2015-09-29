@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "Ian Jobling"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6257#comment=85-4929\">commented</a>",
+  "external_thread_id": "codio-6257",
+  "thread": {
+    "title": "codio-6257 - Update link in our 502 error page",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6257"
+  },
+  "body": "<a href=\"https://codio.myjetbrains.com/youtrack/user/mloginov\" title=\"mloginov\">Mikhail Loginov</a> attached</div>\n\n\n        <div style=\"display: inline-block; font-size: 85%;margin-top: 5px;\">\n            <a style=\"color: #105CB6;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6257#comment=85-4929\">\n                View</a>\n                    <a style=\"color: #105CB6; margin-left: 5px;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6257?replyTo=85-4929\">Reply</a>"
+}

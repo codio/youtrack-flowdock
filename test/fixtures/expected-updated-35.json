@@ -1,0 +1,18 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "AndreyNikitin"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-6421",
+  "thread": {
+    "title": "codio-6421 - Show current user limit in billing area",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6421",
+    "fields": [
+      {
+        "label": "State",
+        "value": "In Progress"
+      }
+    ]
+  }
+}

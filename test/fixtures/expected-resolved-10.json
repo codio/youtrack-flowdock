@@ -3,10 +3,10 @@
   "author": {
     "name": "Vasiliy Levykin"
   },
-  "title": "resolved on Youtrack",
+  "title": "resolved",
   "external_thread_id": "codio-6399",
   "thread": {
-    "title": "Students starting units sometimes get the wrong stack",
+    "title": "codio-6399 - Students starting units sometimes get the wrong stack",
     "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6399",
     "status": {
       "color": "red",

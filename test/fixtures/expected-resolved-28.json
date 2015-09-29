@@ -1,0 +1,16 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Joel Moss"
+  },
+  "title": "resolved",
+  "external_thread_id": "codio-6257",
+  "thread": {
+    "title": "codio-6257 - Update link in our 502 error page",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6257",
+    "status": {
+      "color": "red",
+      "value": "resolved"
+    }
+  }
+}

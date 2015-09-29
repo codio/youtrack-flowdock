@@ -1,0 +1,13 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Joel Moss"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-6379",
+  "thread": {
+    "title": "codio-6379 - Use a unit's existing stack and version when assigning to a module",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6379",
+    "fields": []
+  }
+}

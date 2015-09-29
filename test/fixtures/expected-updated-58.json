@@ -1,0 +1,18 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Joel Moss"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-6227",
+  "thread": {
+    "title": "codio-6227 - New rules for the bitbucket integration.",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6227",
+    "fields": [
+      {
+        "label": "State",
+        "value": "Current"
+      }
+    ]
+  }
+}

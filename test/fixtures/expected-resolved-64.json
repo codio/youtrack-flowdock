@@ -1,0 +1,16 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Mikhail Loginov"
+  },
+  "title": "resolved",
+  "external_thread_id": "codio-6470",
+  "thread": {
+    "title": "codio-6470 - After reopen current stack in stack settings, stack picker doesn't show a list",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6470",
+    "status": {
+      "color": "red",
+      "value": "resolved"
+    }
+  }
+}

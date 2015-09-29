@@ -3,17 +3,20 @@
   "author": {
     "name": "Dmitrii Suchkov"
   },
-  "title": "updated on Youtrack",
+  "title": "updated",
   "external_thread_id": "codio-6455",
   "thread": {
-    "title": "File changes from terminal are not updated in file tree",
+    "title": "codio-6455 - File changes from terminal are not updated in file tree",
     "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6455",
-    "fields": [{
-      "label": "Assignee",
-      "value": "Dmitrii Suchkov"
-    }, {
-      "label": "State",
-      "value": "QA ready"
-    }]
+    "fields": [
+      {
+        "label": "Assignee",
+        "value": "Dmitrii Suchkov"
+      },
+      {
+        "label": "State",
+        "value": "QA ready"
+      }
+    ]
   }
 }

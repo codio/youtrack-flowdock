@@ -1,0 +1,16 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Mikhail Loginov"
+  },
+  "title": "resolved",
+  "external_thread_id": "codio-6467",
+  "thread": {
+    "title": "codio-6467 - Points are not calculated for student from 'multiple choice' assessment type with MULTI response type of question (in some cases)",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6467",
+    "status": {
+      "color": "red",
+      "value": "resolved"
+    }
+  }
+}

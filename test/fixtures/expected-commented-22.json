@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "AndreyNikitin"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6421#comment=85-4931\">commented</a>",
+  "external_thread_id": "codio-6421",
+  "thread": {
+    "title": "codio-6421 - Show current user limit in billing area",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6421"
+  },
+  "body": "Show the current user limit inside the org billing area of the dashboard. We have had a few users asking what their limit is, or that it shows wrong. So when it shows the plan, name, show the user limit alongside it like we do when edu trial plan is used.</div>"
+}

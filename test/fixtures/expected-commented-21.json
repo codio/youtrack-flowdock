@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "MakKos"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6326#comment=85-4930\">commented</a>",
+  "external_thread_id": "codio-6326",
+  "thread": {
+    "title": "codio-6326 - Create New File dialog - Flow",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6326"
+  },
+  "body": "Flow is still showing as a file type users can work with..<br/><br/>Should be removed and replaced with Flode (.flode)</div>"
+}

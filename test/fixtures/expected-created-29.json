@@ -1,0 +1,67 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Friedel Ziegelmayer"
+  },
+  "title": "created",
+  "external_thread_id": "codio-6474",
+  "thread": {
+    "title": "codio-6474 - Split Landing page",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6474",
+    "status": {
+      "color": "green",
+      "value": "open"
+    },
+    "body": "Split Landing page",
+    "fields": [
+      {
+        "label": "Priority",
+        "value": "Normal"
+      },
+      {
+        "label": "Type",
+        "value": "Improvement"
+      },
+      {
+        "label": "State",
+        "value": "In Progress"
+      },
+      {
+        "label": "Action to Take",
+        "value": "Implement"
+      },
+      {
+        "label": "Assignee",
+        "value": "dignifiedquire"
+      },
+      {
+        "label": "Subsystem",
+        "value": "Site"
+      },
+      {
+        "label": "Documentation Required",
+        "value": "No"
+      },
+      {
+        "label": "Due Date",
+        "value": "n/a"
+      },
+      {
+        "label": "Github Issue",
+        "value": "none"
+      },
+      {
+        "label": "_version",
+        "value": "No _version"
+      },
+      {
+        "label": "Estimation",
+        "value": "?"
+      },
+      {
+        "label": "State",
+        "value": "New → In Progress"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "Leo Iannacone"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6464#comment=85-4941\">commented</a>",
+  "external_thread_id": "codio-6464",
+  "thread": {
+    "title": "codio-6464 - Students that start units outside of a class should be warned",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6464"
+  },
+  "body": "When a student starts a unit outside of a class, he should be warned if he really wants to do this (in this case Teacher won&#39;t see that unit).<br/><br/>This should only show if the user is a student in a class that also includes this same unit.</div>"
+}

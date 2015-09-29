@@ -1,0 +1,22 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "Leo Iannacone"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-6428",
+  "thread": {
+    "title": "codio-6428 - Edu Organisation not found in intercom in Company list",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6428",
+    "fields": [
+      {
+        "label": "State",
+        "value": "In Progress"
+      },
+      {
+        "label": "Assignee",
+        "value": "Leo Iannacone"
+      }
+    ]
+  }
+}

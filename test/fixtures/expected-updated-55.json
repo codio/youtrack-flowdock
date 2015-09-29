@@ -1,0 +1,18 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "MakKos"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-6470",
+  "thread": {
+    "title": "codio-6470 - After reopen current stack in stack settings, stack picker doesn't show a list",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6470",
+    "fields": [
+      {
+        "label": "State",
+        "value": "QA approved"
+      }
+    ]
+  }
+}

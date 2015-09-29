@@ -1,0 +1,16 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "AnnaGlushkova"
+  },
+  "title": "resolved",
+  "external_thread_id": "codio-6377",
+  "thread": {
+    "title": "codio-6377 - guides content lost on move section and rename",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6377",
+    "status": {
+      "color": "red",
+      "value": "resolved"
+    }
+  }
+}

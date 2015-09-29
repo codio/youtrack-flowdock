@@ -3,14 +3,16 @@
   "author": {
     "name": "Vasiliy Levykin"
   },
-  "title": "updated on Youtrack",
+  "title": "updated",
   "external_thread_id": "codio-6388",
   "thread": {
-    "title": "eduOrg plan",
+    "title": "codio-6388 - eduOrg plan",
     "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6388",
-    "fields": [{
-      "label": "Assignee",
-      "value": "Joel Moss"
-    }]
+    "fields": [
+      {
+        "label": "Assignee",
+        "value": "Joel Moss"
+      }
+    ]
   }
 }

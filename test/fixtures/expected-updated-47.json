@@ -1,0 +1,18 @@
+{
+  "event": "activity",
+  "author": {
+    "name": "MakKos"
+  },
+  "title": "updated",
+  "external_thread_id": "codio-6469",
+  "thread": {
+    "title": "codio-6469 - Other user project list items whole area should be clickable",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6469",
+    "fields": [
+      {
+        "label": "State",
+        "value": "QA approved"
+      }
+    ]
+  }
+}

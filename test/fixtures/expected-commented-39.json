@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "Joel Moss"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6450#comment=85-4939\">commented</a>",
+  "external_thread_id": "codio-6450",
+  "thread": {
+    "title": "codio-6450 - When trying to access a projects settings from dashboard - error",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6450"
+  },
+  "body": "yes, I think that is fine</div>\n\n\n        <div style=\"display: inline-block; font-size: 85%;margin-top: 5px;\">\n            <a style=\"color: #105CB6;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6450#comment=85-4939\">\n                View</a>\n                    <a style=\"color: #105CB6; margin-left: 5px;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6450?replyTo=85-4939\">Reply</a>"
+}

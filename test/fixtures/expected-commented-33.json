@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "AndreyNikitin"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6408#comment=85-4937\">commented</a>",
+  "external_thread_id": "codio-6408",
+  "thread": {
+    "title": "codio-6408 - Adding to org via token first shows User is in trial but he is not",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6408"
+  },
+  "body": "<a href=\"https://codio.myjetbrains.com/youtrack/user/VeronikaLee\" title=\"VeronikaLee\">VeronikaLee</a>, subscription for this organization is illegal, seems it was created by experiments during some billing changes, think this org should be destroyed.</div>\n\n\n        <div style=\"display: inline-block; font-size: 85%;margin-top: 5px;\">\n            <a style=\"color: #105CB6;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6408#comment=85-4937\">\n                View</a>\n                    <a style=\"color: #105CB6; margin-left: 5px;\" href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6408?replyTo=85-4937\">Reply</a>"
+}

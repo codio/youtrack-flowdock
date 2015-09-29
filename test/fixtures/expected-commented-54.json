@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "VeronikaLee"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6375#comment=85-4942\">commented</a>",
+  "external_thread_id": "codio-6375",
+  "thread": {
+    "title": "codio-6375 - Hitting enter in guides editor jumps to split view mode",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6375"
+  },
+  "body": "<a href=\"http://screencast.com/t/tXMZm1kT\" onclick=\"window.open('http://screencast.com/t/tXMZm1kT', '_blank').opener=null; return false;\">http://screencast.com/t/tXMZm1kT</a></div>"
+}

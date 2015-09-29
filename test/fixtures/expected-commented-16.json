@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "VeronikaLee"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6408#comment=85-4928\">commented</a>",
+  "external_thread_id": "codio-6408",
+  "thread": {
+    "title": "codio-6408 - Adding to org via token first shows User is in trial but he is not",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6408"
+  },
+  "body": "<a href=\"http://screencast.com/t/zH6JQVyNe7\" onclick=\"window.open('http://screencast.com/t/zH6JQVyNe7', '_blank').opener=null; return false;\">http://screencast.com/t/zH6JQVyNe7</a><br/><br/><ul class=\"wiki-list0\"><li> Create token in org<br/></li><li> add by this token with new student<br/></li><li> see you are trial but page reload helps<br/></li></ul></div>"
+}

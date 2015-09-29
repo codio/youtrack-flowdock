@@ -1,0 +1,13 @@
+{
+  "event": "discussion",
+  "author": {
+    "name": "VeronikaLee"
+  },
+  "title": "<a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6415#comment=85-4943\">commented</a>",
+  "external_thread_id": "codio-6415",
+  "thread": {
+    "title": "codio-6415 - IE 11 problems with Units",
+    "external_url": "https://codio.myjetbrains.com/youtrack/issue/codio-6415"
+  },
+  "body": "a:  a number of Students weren&#39;t getting flowchart blocks appearing for them to use in the What is a program unit<br/>The teacher commented  that was a browser issue in IE11  and was ok in chrome, <br/><br/>b: was deleted and created new issue <a href=\"https://codio.myjetbrains.com/youtrack/issue/codio-6417\" class=\"issue-resolved\" title=\"Starting next Unit from guides works wrong and never ends\">codio-6417</a><br/>re <a href=\"https://app.intercom.io/a/apps/ee8711023afa04b80a6b921ddb3939c1171e0f62/inbox/ijobling@codio.com/conversations/1201253485\" onclick=\"window.open('https://app.intercom.io/a/apps/ee8711023afa04b80a6b921ddb3939c1171e0f62/inbox/ijobling@codio.com/conversations/1201253485', '_blank').opener=null; return false;\">https://app.intercom.io/a/apps/ee8711023afa04b80a6b921ddb3939c1171e0f62/inbox/ijobling@codio.com/conversations/1201253485</a></div>"
+}
